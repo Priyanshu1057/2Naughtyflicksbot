@@ -40,9 +40,9 @@ START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/ec17880d61180d3
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b9dcbd1.jpg")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "gplink.com")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "6039024d791b89459bb4667a367c4a2d5a511739")
-TUT_VID = os.environ.get("TUT_VID","https://t.me/hwdownload/3")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "https://concrete-amity-opsoft-b1d77acb.koyeb.app/api")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "3adca196c74366f9d2991580d3fc459015b8ae36")
+TUT_VID = os.environ.get("TUT_VID","https://t.me/tutorial_filx/5")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
 SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://telegra.ph/file/ec17880d61180d3312d6a.jpg")
